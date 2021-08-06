@@ -15,7 +15,8 @@ def get_header(app):
                 [
                     html.Img(
                         #src="https://cdn.mmaweekly.com/wp-content/uploads/2017/10/UFC-black-logo-on-gradient.jpg",
-                        src="https://www.stripes.com/polopoly_fs/1.175627.1335454273!/image/3107706660.jpg_gen/derivatives/landscape_900/3107706660.jpg",
+                        #src="https://www.stripes.com/polopoly_fs/1.175627.1335454273!/image/3107706660.jpg_gen/derivatives/landscape_900/3107706660.jpg",
+                        src = "https://github.com/studentveterans-USA/Life-Cycle-Atlas-Dash-App/blob/master/Heroku_Deployment_v2/Visualization/SVA%20Logo.png"
                         className='SVA_img'
                     ),
                     #html.Img(
