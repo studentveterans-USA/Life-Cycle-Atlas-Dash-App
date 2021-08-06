@@ -18,11 +18,11 @@ def get_header(app):
                         src="https://www.stripes.com/polopoly_fs/1.175627.1335454273!/image/3107706660.jpg_gen/derivatives/landscape_900/3107706660.jpg",
                         className='SVA_img'
                     ),
-                    html.Img(
-                        src="https://www.usveteransmagazine.com/wp-content/uploads/2017/04/pwc_charitablefoundation_logo.png",
+                    #html.Img(
+                        #src="https://www.usveteransmagazine.com/wp-content/uploads/2017/04/pwc_charitablefoundation_logo.png",
                         #src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjEFX1cPTepX0y5gq6csK8JFC-z2Xk-v8lkXuGSyG1EwLJsUdm&s',
-                        className='PWC_img'
-                    ),
+                        #className='PWC_img'
+                    #),
                 ],
                 className='row',
             ),
